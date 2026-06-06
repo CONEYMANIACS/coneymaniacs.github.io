@@ -10,7 +10,7 @@ export default function App(){
   const vodAmount = videoData.length; 
   //console.log(vodAmount)
   const [numVods, setNumVods] = useState(50); 
-  const [randomVod, setRandomVod] = useState(videoData[Math.floor(Math.random() * vodAmount)])
+  const [randomVod] = useState(videoData[Math.floor(Math.random() * vodAmount)])
   const [searchResults, setSearchResults] = useState('');
   const [filteredVods, setFilteredVods] = useState(videoData.slice(0,numVods))
   const[searchType, setSearchtype] = useState('')
@@ -97,7 +97,7 @@ export default function App(){
                           md:gap-10'>
           <button className='bg-white rounded-full border-4 border-black py-2 px-4 hover:border-red-900 hover:border-4
                              md:text-lg md:py-3 px-8' onClick={() => setNumVods(amount => amount + 24)}>Load More</button>  
-          <button className=' hover:border-red-900 hover:border-4 bg-white md:text-lg rounded-full border-4 border-black py-2 px-4' onClick={() => setNumVods(amount => vodAmount)}>Load All</button>  
+          <button className=' hover:border-red-900 hover:border-4 bg-white md:text-lg rounded-full border-4 border-black py-2 px-4' onClick={() => setNumVods(vodAmount)}>Load All</button>  
           </div>
       }
   </>

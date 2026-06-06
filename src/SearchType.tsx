@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 interface SearchChangeProps {
   changeSearch: (buttonResult: string) => void; 
 }

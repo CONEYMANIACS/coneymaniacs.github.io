@@ -1,5 +1,4 @@
-import Fuse from 'fuse.js'
-import React, { useState, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 interface Chapter{
   timestamp: string, 
   title: string
@@ -22,7 +21,7 @@ interface VideoData {
 interface CardProps {
   video: VideoData; 
 }
-let chaptersMap = new Map(); 
+
 export function VideoCard({video}: CardProps ){
   const [isExpanded, setIsExpanded] = useState(false);
   const [visibleTags, setVisibleTags] = useState(video.vidChapters.slice(0, 3))

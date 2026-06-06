@@ -1,7 +1,7 @@
 import videoData from '../ConeyVods.json'
 import chapterData from '../newMap.json'
 import {VideoCard} from './VideoCard'
-import React, { useState, useEffect } from 'react'
+import { useState } from 'react'
 interface quickSearchProps {
   quickSearch: (searchTerm: string) => void; 
 }
