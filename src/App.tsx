@@ -8,14 +8,13 @@ import React, { useState, useEffect } from 'react'
 
 export default function App(){
   const vodAmount = videoData.length; 
-  //console.log(vodAmount)
+
   const [numVods, setNumVods] = useState(50); 
   const [randomVod] = useState(videoData[Math.floor(Math.random() * vodAmount)])
   const [searchResults, setSearchResults] = useState('');
   const [filteredVods, setFilteredVods] = useState(videoData.slice(0,numVods))
   const[searchType, setSearchtype] = useState('')
 
-  console.log(randomVod)
 
   const handleSearchType = (buttonResult: string) => {
     setSearchtype(buttonResult); 
@@ -26,7 +25,6 @@ export default function App(){
     setSearchResults(searchTerm)
 
     if(searchTerm.length === 0){
-      console.log(numVods)
       setFilteredVods(videoData.slice(0,numVods))
     }
     else if(searchType === 'title' || searchType === ''){

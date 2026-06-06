@@ -24,9 +24,6 @@ export function RandomBox({quickSearch}: quickSearchProps){
 ];
 const randomColor = (): string => { return tailwindColors[Math.floor(Math.random() * tailwindColors.length)];}
 
-  console.log(randomVod)
-  console.log(randomChapter)
-
 
   const handleChange = (searchTerm: string) => {
     
@@ -101,6 +98,6 @@ const randomColor = (): string => { return tailwindColors[Math.floor(Math.random
   }
   const result = Array.from(indices).map(index => chapterData[index]);
 
-  console.log(result)
+
   return result
   }
