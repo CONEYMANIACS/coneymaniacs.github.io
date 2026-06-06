@@ -10,7 +10,6 @@ export default function App(){
   const vodAmount = videoData.length; 
 
   const [numVods, setNumVods] = useState(50); 
-  const [randomVod] = useState(videoData[Math.floor(Math.random() * vodAmount)])
   const [searchResults, setSearchResults] = useState('');
   const [filteredVods, setFilteredVods] = useState(videoData.slice(0,numVods))
   const[searchType, setSearchtype] = useState('')
