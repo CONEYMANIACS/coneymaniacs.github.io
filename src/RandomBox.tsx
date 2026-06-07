@@ -7,8 +7,7 @@ interface quickSearchProps {
 }
 export function RandomBox({quickSearch}: quickSearchProps){
 
-  const vodAmount = videoData.length; 
-  const [randomVod, setRandomVod] = useState(videoData[Math.floor(Math.random() * vodAmount)])
+  const [randomVod, setRandomVod] = useState(getRandomVods())
   const [randomChapter, setRandomChapter] = useState(getRandomChapters())
   const commonTags: string[] = ["Confessional","Fact Or Opinion","Wheel","Genie","Mojo","Who Asked",
                              "React Wars","Websurf Wednesday", "Banjo Tooie","Coney Game Fest","Mario 64", "React"]
@@ -35,18 +34,19 @@ const randomColor = (): string => { return tailwindColors[Math.floor(Math.random
 
     <div className='grid md:flex grid-cols-2 gap-x-1  md:gap-x-30 justify-items-center md:justify-center w-full md:w-full max-h-1/3'>
 
-      <div className=' grid justify-items-center max-h-3/4  md:max-h-full'>
-          {/* <button className='bg-white md:text-lg hover:border-red-900 h-1/2
-                            hover:border-4 rounded-full border-2 border-black py-2 px-4 md:h-full w-1/2' 
-          onClick={() => setRandomVod(videoData[Math.floor(Math.random() * vodAmount)])}>Shuffle</button> */}
-      <div className='  w-full h-1/3 md:h-full grid justify-items-center items-start'>
+      <div className=' grid justify-items-center max-h-3/4 md:w-2/3 md:max-h-full'>
+      <div className='  w-full md:w-1/3 h-1/3 md:h-full grid justify-items-center items-start'>
           <button className='bg-white md:text-lg hover:border-red-900  
                             hover:border-4 rounded-full border-2 border-black py-2 px-4 md:h-full w-1/2' 
-          onClick={() => setRandomVod(videoData[Math.floor(Math.random() * vodAmount)])}>Shuffle</button>
+          onClick={() => setRandomVod(getRandomVods())}>Shuffle</button>
       </div>
-        <div className=' w-full h-full mt-0 md:mt-0'>
-          <h3 className='md:text-xl md:font-bold'>Random Vod</h3>
-            <VideoCard key={randomVod.vidTitle} video={randomVod}></VideoCard>
+      <h3 className='md:text-xl md:font-bold'>Random Vod</h3>
+        <div className='md:flex w-full h-full mt-0 md:mt-0 md:gap-x-3 md:justify-center'>
+          
+            {randomVod.map((vod) =>{
+              return <VideoCard key={vod.vidTitle} video={vod}></VideoCard>
+            })
+            }
         </div>
           
       </div>
@@ -57,6 +57,7 @@ const randomColor = (): string => { return tailwindColors[Math.floor(Math.random
                             hover:border-4 rounded-full border-2 border-black py-1 px-1 md:h-full w-1/2' 
           onClick={() => setRandomChapter(getRandomChapters())}>Shuffle</button>
           </div>
+          <h3 className='md:text-xl md:font-bold'>Quick Tag Search</h3>
           <div className='border-black border-2 bg-white w-full h-full'>
               <h3 className='md:text-xl md:font-bold'>Random Tags</h3>
               <div className=' md:w-full text-center grid grid-cols-2'>
@@ -97,6 +98,30 @@ const randomColor = (): string => { return tailwindColors[Math.floor(Math.random
     indices.add(randomIndex);
   }
   const result = Array.from(indices).map(index => chapterData[index]);
+
+
+  return result
+  }
+
+  function getRandomVods(){
+
+    //const result = [...chapterData]; 
+
+    const indices = new Set<number>();
+    const isMobile = window.innerWidth <= 768; 
+    var number; 
+    if(isMobile){
+      number = 1
+    }
+    else{
+      number = 3
+    }
+
+    while (indices.size < number) {
+    const randomIndex = Math.floor(Math.random() * videoData.length);
+    indices.add(randomIndex);
+  }
+  const result = Array.from(indices).map(index => videoData[index]);
 
 
   return result

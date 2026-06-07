@@ -78,7 +78,7 @@ export default function App(){
       <RandomBox quickSearch={handleQuickSearch}></RandomBox>
     </div>
     <h2 className='
-                   md:text-xl font-bold md:ml-17 md:mr-17'>Vods List: {filteredVods.length}</h2>
+                   md:text-xl font-bold md:text-left md:px-2'>Vods List: {filteredVods.length}</h2>
     <ul className="grid grid-cols-2 gap-4 justify-items-center
                   md:grid md:grid-cols-4 md:gap-y-4 md:justify-items-center">
       {filteredVods.map((video) => (
