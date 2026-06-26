@@ -1,5 +1,47 @@
 [
   {
+    "vidId": "kyi-3cseJFc",
+    "vidDescription": "0:00 Intro\n23:00 ConeyMania\n\n\n➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ",
+    "vidChapters": [
+      {
+        "timestamp": "0:00",
+        "title": "Intro"
+      },
+      {
+        "timestamp": "23:00",
+        "title": "ConeyMania"
+      }
+    ],
+    "vidTitle": "Coney Fires Up ConeyMania 2026 (3/18/26)",
+    "vidThumbnail": {
+      "url": "https://i.ytimg.com/vi/kyi-3cseJFc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+    },
+    "vidLink": "https://www.youtube.com/watch?v=kyi-3cseJFc"
+  },
+  {
+    "vidId": "ysP62oWzgc4",
+    "vidDescription": "0:00 Intro\n23:00 Street Fighter 6\n\n\n➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #sf6 #streetfighter6",
+    "vidChapters": [
+      {
+        "timestamp": "0:00",
+        "title": "Intro"
+      },
+      {
+        "timestamp": "23:00",
+        "title": "Street Fighter 6"
+      }
+    ],
+    "vidTitle": "Coney Tries Out Some Street Fighter 6 Alex (3/17/26)",
+    "vidThumbnail": {
+      "url": "https://i.ytimg.com/vi/ysP62oWzgc4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+    },
+    "vidLink": "https://www.youtube.com/watch?v=ysP62oWzgc4"
+  },
+  {
     "vidId": "-3Tk2OuH2No",
     "vidDescription": "➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #pokemon #nuzlocke",
     "vidChapters": [
@@ -1089,7 +1131,7 @@
       },
       {
         "timestamp": "2:30:00",
-        "title": "SaltyBet"
+        "title": "Salty Bet"
       }
     ],
     "vidTitle": "Coney Ranks EVERY Nintendo Switch Online Game (01/02/26)",
@@ -3925,7 +3967,7 @@
       },
       {
         "timestamp": "3:02:00",
-        "title": "SaltyBet"
+        "title": "Salty Bet"
       }
     ],
     "vidTitle": "Coney Reacts To The EARLY Meta Of Smash Ultimate (6/03/25)",
@@ -4426,7 +4468,7 @@
       },
       {
         "timestamp": "3:21:00",
-        "title": "Saltybet"
+        "title": "Salty Bet"
       }
     ],
     "vidTitle": "Coney Plays CloverPit (4/23/25)",
@@ -5243,7 +5285,7 @@
       },
       {
         "timestamp": "2:48:00",
-        "title": "SaltyBet"
+        "title": "Salty Bet"
       }
     ],
     "vidTitle": "Coney Reacts to the Unwritten Rules of Smash (3/04/25)",
@@ -7326,7 +7368,20 @@
   {
     "vidId": "9NgBz66DstE",
     "vidDescription": "Coney spent the first day of The Luminosity Invitational at the event and now he's finishing out championship Sunday with a co-stream back home.\n\n➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #react #ssbu",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Smash Ultimate"
+      },
+      {
+        "timestamp": "4:32:31",
+        "title": "Top 8"
+      },
+      {
+        "timestamp": "7:33:09",
+        "title": "Grand Finals"
+      }
+    ],
     "vidTitle": "Coney Watches The Luminosity Invitational (9/29/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/9NgBz66DstE/sddefault.jpg",
@@ -8000,7 +8055,40 @@
   {
     "vidId": "iVnHO02sNAE",
     "vidDescription": "Coney is back for a second day at Supernova 2024, and joined by a few other hosts including L4st, Comona, and Austy, he is hosting a ludicrous 128 person mystery game bracket with 7 rounds, spanning each Nintendo console generation.\n\n➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #gameshow #react",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Coney Fest 2024"
+      },
+      {
+        "timestamp": "10:15",
+        "title": "Super Mario Bros 3"
+      },
+      {
+        "timestamp": "1:00:34",
+        "title": "Super Mario Kart"
+      },
+      {
+        "timestamp": "1:57:53",
+        "title": "GoldenEye"
+      },
+      {
+        "timestamp": "2:30:06",
+        "title": "Sonic Adventure 2 Battle"
+      },
+      {
+        "timestamp": "3:00:30",
+        "title": "Wii Sports"
+      },
+      {
+        "timestamp": "3:55:47",
+        "title": "Smash 4"
+      },
+      {
+        "timestamp": "4:31:08",
+        "title": "Wario Ware"
+      }
+    ],
     "vidTitle": "Coney Hosts Coney Fest 2024 Live at Supernova (8/10/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/iVnHO02sNAE/sddefault.jpg",
@@ -8012,7 +8100,12 @@
   {
     "vidId": "FgSGDtJhbbo",
     "vidDescription": "Coney is live at his corner of Supernova 2024 and he has Marss, Dabuz, Riddles, and Hazmatt together to play NES World Championships and play some NES themed Jeopardy.\n\n➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #react #jeopardy",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:44",
+        "title": "NES Jeopardy"
+      }
+    ],
     "vidTitle": "Coney Hosts NES Jeopardy Live At Supernova 2024 (8/09/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/FgSGDtJhbbo/sddefault.jpg",
@@ -8356,7 +8449,12 @@
   {
     "vidId": "Z2wED16S2dM",
     "vidDescription": "Coney is undertaking the Ultimate Street Fighter Challenge, where he beats 13 different Street Fighter games in a row. Part 2 of 2.\n\n➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #streetfighter #streetfighter6",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Beating Every Street Fighter"
+      }
+    ],
     "vidTitle": "Coney Beats EVERY Street Fighter Game Part 2 (7/14/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/Z2wED16S2dM/sddefault.jpg",
@@ -8368,7 +8466,16 @@
   {
     "vidId": "KhSV6r7G5XQ",
     "vidDescription": "Coney is undertaking the Ultimate Street Fighter Challenge, where he beats 13 different Street Fighter games in a row. Part 1 of 2.\n\n➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #streetfighter #streetfighter2",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Intro"
+      },
+      {
+        "timestamp": "23:04",
+        "title": "Beating Every Street Fighter"
+      }
+    ],
     "vidTitle": "Coney Beats EVERY Street Fighter Game Part 1 (7/14/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/KhSV6r7G5XQ/sddefault.jpg",
@@ -8699,7 +8806,12 @@
   {
     "vidId": "Og8n8qNGggY",
     "vidDescription": "Coney plays some of the new Elden Ring DLC, Shadow of the Erdtree, on launch day.\n\n➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #eldenring #eldenringdlc",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Elden Ring DLC"
+      }
+    ],
     "vidTitle": "Coney Plays The Elden Ring DLC (6/20/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/Og8n8qNGggY/sddefault.jpg",
@@ -9013,7 +9125,12 @@
   {
     "vidId": "9OeDzIA2eC8",
     "vidDescription": "Coney has seen some clips but now\n\n➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #react #multiversus",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Multiversus"
+      }
+    ],
     "vidTitle": "Coney Plays MultiVersus On Launch Day (5/28/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/9OeDzIA2eC8/sddefault.jpg",
@@ -9121,7 +9238,16 @@
   {
     "vidId": "y6w0K22UVrk",
     "vidDescription": "Coney's time to shine in Tekken 8 again for the final day of Sajam Slam 2. Day 1 and 2's round robins have decided the seeding and today is the finals.\n\n➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #tekken #tekken8",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "1:50",
+        "title": "Sajam Slam: Tekken"
+      },
+      {
+        "timestamp": "7:08:25",
+        "title": "Subula"
+      }
+    ],
     "vidTitle": "Coney Plays In The Final Day Of Sajam Tekken Slam 2 (5/19/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/y6w0K22UVrk/sddefault.jpg",
@@ -9154,7 +9280,12 @@
   {
     "vidId": "SmQzIYCkXZc",
     "vidDescription": "Coney's time to shine in Tekken 8 again for the start of Sajam Slam 2. Day 1 and 2 are round robin and day 3 is the finals.\n\n➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #tekken8 #tekken",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Sajam Slam: Tekken"
+      }
+    ],
     "vidTitle": "Coney Plays Round Robin For Day 2 of Sajam Slam 2 (5/17/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/SmQzIYCkXZc/sddefault.jpg",
@@ -9416,7 +9547,20 @@
   {
     "vidId": "mCmEwsJEFMg",
     "vidDescription": "Coney plays a bunch of Rivals of Aether 2 during the April Kickstarter backer beta playtest.\n\n➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #rivalsofaether #rivals2",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Rivals 2"
+      },
+      {
+        "timestamp": "5:55:00",
+        "title": "TierList"
+      },
+      {
+        "timestamp": "6:02:56",
+        "title": "Rivals 2"
+      }
+    ],
     "vidTitle": "Coney Plays Rivals 2 Beta Weekend (4/26/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/mCmEwsJEFMg/sddefault.jpg",
@@ -9486,7 +9630,16 @@
   {
     "vidId": "ogrbFSOPriI",
     "vidDescription": "Let's play a baseball game.\n\n➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #mariosuperstarbaseball #baseball",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "15:25",
+        "title": "Mario League Baseball"
+      },
+      {
+        "timestamp": "3:12:33",
+        "title": "Grand Finals"
+      }
+    ],
     "vidTitle": "Coney Starts Mario League Baseball (4/21/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/ogrbFSOPriI/sddefault.jpg",
@@ -9498,7 +9651,12 @@
   {
     "vidId": "ydQX_AVwCys",
     "vidDescription": "➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #react #ssbu",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Smash Ultimate"
+      }
+    ],
     "vidTitle": "Coney Watches The Luminosity Invitational (4/20/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/ydQX_AVwCys/sddefault.jpg",
@@ -10016,7 +10174,24 @@
   {
     "vidId": "jIUNXQg1HFs",
     "vidDescription": "Collision 2024 and Red Bull Kumite are happening at the same time and Coney wants to watch both, so he swaps back and forth a bit before he decides to literally watch both at once.\n\n➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #streetfighter6 #smashultimate",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Melee/Street Fighter"
+      },
+      {
+        "timestamp": "1:26:45",
+        "title": "Street Fighter"
+      },
+      {
+        "timestamp": "1:41:24",
+        "title": "Smash Ultimate/Street Fighter"
+      },
+      {
+        "timestamp": "3:18:25",
+        "title": "Smash Ultimate"
+      }
+    ],
     "vidTitle": "Coney Watches Collision 2024 AND Red Bull Kumite (3/17/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/jIUNXQg1HFs/sddefault.jpg",
@@ -10107,7 +10282,16 @@
   {
     "vidId": "cy8HL2ggYCA",
     "vidDescription": "With their seed decided and matches set, Coney and Team Brawlpro compete in the Sajam Tekken Slam Finals.\n\n➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #tekken #tekken8",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Sajam Slam: Tekken"
+      },
+      {
+        "timestamp": "6:43:57",
+        "title": "Kingdom: The Blood"
+      }
+    ],
     "vidTitle": "Coney Plays In The Sajam Tekken Slam Finals (3/10/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/cy8HL2ggYCA/sddefault.jpg",
@@ -10119,7 +10303,12 @@
   {
     "vidId": "zkDzC_-D2Hw",
     "vidDescription": "Coney and his team finished day 1 of Sajam Tekken Slam the previous day and finals are tomorrow, so Coney is doing one more practice session before the big day.\n\n➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #tekken #tekken8",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Tekken"
+      }
+    ],
     "vidTitle": "Coney Sneaks In Another Day of Tekken Practice (3/09/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/zkDzC_-D2Hw/sddefault.jpg",
@@ -10193,7 +10382,12 @@
   {
     "vidId": "eGF8FTciWEo",
     "vidDescription": "Coney plays some more Tekken and you better get used to it because Sajam's round robin is coming up.\n\n➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #tekken #tekken8",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Tekken"
+      }
+    ],
     "vidTitle": "Coney Grinds More Tekken 8 (3/04/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/eGF8FTciWEo/sddefault.jpg",
@@ -10230,7 +10424,12 @@
   {
     "vidId": "9iQI30fljA0",
     "vidDescription": "Coney is head down nose in book grinding as more preparation for Sajam's Tekken 8 event.\n\n➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #tekken #tekken8",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Tekken"
+      }
+    ],
     "vidTitle": "Coney Grinds Tekken 8 (3/02/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/9iQI30fljA0/sddefault.jpg",
@@ -10271,7 +10470,12 @@
   {
     "vidId": "CNgmVLv9Bkc",
     "vidDescription": "Coney toughs it out and finishes strong with an absolute marathon of a bunch of different Mario Sports games.\n\n➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#mario #mariostrikers #baseball",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Mario Sports Marathon"
+      }
+    ],
     "vidTitle": "Coney Finishes Out His Mario Sports Marathon (2/28/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/CNgmVLv9Bkc/sddefault.jpg",
@@ -10324,7 +10528,32 @@
   {
     "vidId": "htHgffcdh2A",
     "vidDescription": "Coney spends some time on Twitter and YouTube and digests some content, including the Willy Wonka Experience disaster, some Pokemon Tier Lists, and a movie about the many absurd companies who have sponsored Nascar and F1 races.\n\n➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #react #racing",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Intro"
+      },
+      {
+        "timestamp": "59:00",
+        "title": "Coney In Infinite Craft"
+      },
+      {
+        "timestamp": "1:14:12",
+        "title": "Willy Wonka Experience"
+      },
+      {
+        "timestamp": "1:50:32",
+        "title": "Mario Kart Wii Cheating"
+      },
+      {
+        "timestamp": "2:26:57",
+        "title": "Ridiculous Racing Sponsors"
+      },
+      {
+        "timestamp": "3:20:00",
+        "title": "Black Eyed Peas Stunlock"
+      }
+    ],
     "vidTitle": "Coney Learns About The Ridiculous Sponsors of Racing (2/27/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/htHgffcdh2A/sddefault.jpg",
@@ -10336,7 +10565,12 @@
   {
     "vidId": "oWu8aGQMFnc",
     "vidDescription": "Coney watches Capcom Cup X with chat to see who wins the a one million dollar prize.\n\n➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #react #streetfighter6",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Street Fighter"
+      }
+    ],
     "vidTitle": "Coney Watches Capcom Cup X (2/25/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/oWu8aGQMFnc/sddefault.jpg",
@@ -10348,7 +10582,16 @@
   {
     "vidId": "AODgzssTPn4",
     "vidDescription": "Coney watches YOUR funny videos, but a horrible fate awaits him if he lets loose more than a giggle.\n\n➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #youlaughyoulose #react",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Intro"
+      },
+      {
+        "timestamp": "26:00",
+        "title": "You Laugh You Die"
+      }
+    ],
     "vidTitle": "Coney Plays You Laugh You DIE (2/23/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/AODgzssTPn4/sddefault.jpg",
@@ -10406,7 +10649,16 @@
   {
     "vidId": "eq834i2QDlk",
     "vidDescription": "➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #react #ssbu",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Genesis X: Rivals of Aether"
+      },
+      {
+        "timestamp": "36:04",
+        "title": "Genesis X: Smash Ultimate"
+      }
+    ],
     "vidTitle": "Coney Watches Genesis X Championship Sunday (2/18/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/eq834i2QDlk/sddefault.jpg",
@@ -10418,7 +10670,12 @@
   {
     "vidId": "wSqNyXrFgF4",
     "vidDescription": "➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #react #ssbu",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Genesis X: Smash Ultimate"
+      }
+    ],
     "vidTitle": "Coney Watches Saturday of Genesis X (2/17/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/wSqNyXrFgF4/sddefault.jpg",
@@ -10720,7 +10977,16 @@
   {
     "vidId": "8ES_Yw0sUZM",
     "vidDescription": "➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #tekken #tekken8",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Intro"
+      },
+      {
+        "timestamp": "15:06",
+        "title": "Tekken"
+      }
+    ],
     "vidTitle": "Coney Plays Tekken 8 On Launch Day (1/25/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/8ES_Yw0sUZM/sddefault.jpg",
@@ -10819,7 +11085,12 @@
   {
     "vidId": "93svSXCbx1g",
     "vidDescription": "➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Palworld"
+      }
+    ],
     "vidTitle": "Coney Plays More Palworld (1/19/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/93svSXCbx1g/sddefault.jpg",
@@ -10831,7 +11102,16 @@
   {
     "vidId": "JfF-SVhgSSg",
     "vidDescription": "Coney has received enough viewer submissions to go ahead with another cringe confessional and hear more about your embarrassing stories.\n\n➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #react #cringe",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Intro"
+      },
+      {
+        "timestamp": "31:41",
+        "title": "Cringe Confessional"
+      }
+    ],
     "vidTitle": "Coney Conducts Cringe Confessional (1/18/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/JfF-SVhgSSg/sddefault.jpg",
@@ -10843,7 +11123,12 @@
   {
     "vidId": "D7_w-mlpT_s",
     "vidDescription": "➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #palworld #palworldgame",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Palworld"
+      }
+    ],
     "vidTitle": "Coney Plays Palworld (1/16/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/D7_w-mlpT_s/sddefault.jpg",
@@ -10855,7 +11140,32 @@
   {
     "vidId": "rDRfWCOw318",
     "vidDescription": "➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #mario #react",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Intro"
+      },
+      {
+        "timestamp": "27:15",
+        "title": "60 Minute Mario Challenge"
+      },
+      {
+        "timestamp": "2:13:22",
+        "title": "15 Insane Roller Coaster Facts"
+      },
+      {
+        "timestamp": "2:55:54",
+        "title": "Dumbest Reasons To Stop A Baseball Game"
+      },
+      {
+        "timestamp": "3:28:27",
+        "title": "Scam That Tricked Athletes"
+      },
+      {
+        "timestamp": "4:08:34",
+        "title": "Buckshot Roulette"
+      }
+    ],
     "vidTitle": "Coney Invents The 60 Minute Mario Challenge (1/14/24)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/rDRfWCOw318/sddefault.jpg",
@@ -11086,7 +11396,16 @@
   {
     "vidId": "rAb_-MmZW1c",
     "vidDescription": "After a disastrous first attempt one year ago, Coney returns to Roblox Survivor (Outlaster) to finally crown a singular winner.\n\n➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #roblox #survivor",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Intro/Steam Awards"
+      },
+      {
+        "timestamp": "20:53",
+        "title": "Roblox Survivor"
+      }
+    ],
     "vidTitle": "Coney Redeems Himself With More Roblox Survivor (12/21/23)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/rAb_-MmZW1c/sddefault.jpg",
@@ -11151,7 +11470,16 @@
   {
     "vidId": "bmqYrs2qJDI",
     "vidDescription": "➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #react #cringe",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Intro"
+      },
+      {
+        "timestamp": "29:03",
+        "title": "Cringe Confessional"
+      }
+    ],
     "vidTitle": "Coney Cringes At High School Stories (12/19/23)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/bmqYrs2qJDI/sddefault.jpg",
@@ -11163,7 +11491,16 @@
   {
     "vidId": "B5VU1nNtcbY",
     "vidDescription": "➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #react #reactwars",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Intro"
+      },
+      {
+        "timestamp": "33:52",
+        "title": "React Wars"
+      }
+    ],
     "vidTitle": "Coney Reacts In React Wars Season 5, Round 6 (12/17/23)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/B5VU1nNtcbY/sddefault.jpg",
@@ -11221,7 +11558,16 @@
   {
     "vidId": "ZkBFascu2fY",
     "vidDescription": "➤ WATCH ME LIVE: https://www.twitch.tv/CONEY​\n➤ Follow me on Twitter: https://twitter.com/CONEY​\n➤ Subscribe to my YouTube: https://youtube.com/coneyzz​\n➤ Watch my VODs: https://www.youtube.com/channel/UCwWc-BFNNIuQ7iZD_D8nAsQ\n\n#coney #react #thegameawards",
-    "vidChapters": [],
+    "vidChapters": [
+      {
+        "timestamp": "00:00",
+        "title": "Intro"
+      },
+      {
+        "timestamp": "33:54",
+        "title": "The Game Awards"
+      }
+    ],
     "vidTitle": "Coney Watches The Game Awards (12/07/23)",
     "vidThumbnail": {
       "url": "https://i.ytimg.com/vi/ZkBFascu2fY/sddefault.jpg",
@@ -14475,7 +14821,7 @@
       },
       {
         "timestamp": "1:59:00",
-        "title": "SaltyBet"
+        "title": "Salty Bet"
       }
     ],
     "vidTitle": "Coney Plays The Resident Evil 4 Demo (3/9/23)",
@@ -15029,7 +15375,7 @@
       },
       {
         "timestamp": "2:57:00",
-        "title": "Saltybet"
+        "title": "Salty Bet"
       }
     ],
     "vidTitle": "Coney CONTINUES Playing Mario Party Advance?? (2/8/23)",
@@ -20476,7 +20822,7 @@
       },
       {
         "timestamp": "2:21:00",
-        "title": "SaltyBet"
+        "title": "Salty Bet"
       },
       {
         "timestamp": "3:55:00",
@@ -21133,7 +21479,7 @@
       },
       {
         "timestamp": "1:37:30",
-        "title": "SaltyBet"
+        "title": "Salty Bet"
       }
     ],
     "vidTitle": "Coney Watches the NASB CatDog Showcase (9/16/21)",
@@ -23183,7 +23529,7 @@
       },
       {
         "timestamp": "1:28:05",
-        "title": "SaltyBet"
+        "title": "Salty Bet"
       },
       {
         "timestamp": "3:06:25",
