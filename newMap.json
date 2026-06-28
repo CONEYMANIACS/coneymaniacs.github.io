@@ -1,11 +1,11 @@
 [
   {
     "name": "Intro",
-    "data": 589
+    "data": 598
   },
   {
     "name": "Cringe Confessional",
-    "data": 33
+    "data": 34
   },
   {
     "name": "Salty Bet",
@@ -21,7 +21,11 @@
   },
   {
     "name": "Intro/Twitter",
-    "data": 14
+    "data": 15
+  },
+  {
+    "name": "Grand Finals",
+    "data": 15
   },
   {
     "name": "Websurf Wednesday",
@@ -64,11 +68,15 @@
     "data": 10
   },
   {
+    "name": "React Wars",
+    "data": 10
+  },
+  {
     "name": "Wheel Champ",
     "data": 10
   },
   {
-    "name": "Grand Finals",
+    "name": "Fortnite",
     "data": 9
   },
   {
@@ -76,11 +84,7 @@
     "data": 9
   },
   {
-    "name": "React Wars",
-    "data": 9
-  },
-  {
-    "name": "Fortnite",
+    "name": "Subula",
     "data": 8
   },
   {
@@ -92,7 +96,7 @@
     "data": 8
   },
   {
-    "name": "Subula",
+    "name": "Top 8",
     "data": 7
   },
   {
@@ -104,11 +108,11 @@
     "data": 7
   },
   {
-    "name": "State of Play",
-    "data": 6
+    "name": "Nintendo Direct",
+    "data": 7
   },
   {
-    "name": "Nintendo Direct",
+    "name": "State of Play",
     "data": 6
   },
   {
@@ -244,15 +248,15 @@
     "data": 4
   },
   {
+    "name": "Choicer Voicer",
+    "data": 3
+  },
+  {
     "name": "Pokemon Nuzlocke",
     "data": 3
   },
   {
     "name": "Intro/NSO",
-    "data": 3
-  },
-  {
-    "name": "Top 8",
     "data": 3
   },
   {
@@ -364,11 +368,19 @@
     "data": 3
   },
   {
+    "name": "Story Time",
+    "data": 3
+  },
+  {
     "name": "RACE",
     "data": 3
   },
   {
     "name": "REACT",
+    "data": 3
+  },
+  {
+    "name": "Sonic Frontiers",
     "data": 3
   },
   {
@@ -564,10 +576,6 @@
     "data": 2
   },
   {
-    "name": "Choicer Voicer",
-    "data": 2
-  },
-  {
     "name": "Least Popular Pokemon",
     "data": 2
   },
@@ -752,11 +760,11 @@
     "data": 2
   },
   {
-    "name": "Story Time",
+    "name": "Resident Evil 4 Demo",
     "data": 2
   },
   {
-    "name": "Resident Evil 4 Demo",
+    "name": "Pizza Tower",
     "data": 2
   },
   {
@@ -777,6 +785,14 @@
   },
   {
     "name": "Fears to Fathom",
+    "data": 2
+  },
+  {
+    "name": "Genesis 9: Smash Ultimate",
+    "data": 2
+  },
+  {
+    "name": "The Devil In Me",
     "data": 2
   },
   {
@@ -886,6 +902,14 @@
   {
     "name": "Nick Arcade",
     "data": 2
+  },
+  {
+    "name": "Pokemon Champions Trailer",
+    "data": 1
+  },
+  {
+    "name": "Gorilla vs FNAF",
+    "data": 1
   },
   {
     "name": "Content King",
@@ -5244,6 +5268,14 @@
     "data": 1
   },
   {
+    "name": "Intro/Emotes",
+    "data": 1
+  },
+  {
+    "name": "Smash/Summit Talk",
+    "data": 1
+  },
+  {
     "name": "Streamer Award Voting",
     "data": 1
   },
@@ -5253,6 +5285,14 @@
   },
   {
     "name": "UwUFUFU",
+    "data": 1
+  },
+  {
+    "name": "Atomic Heart",
+    "data": 1
+  },
+  {
+    "name": "Like A Dragon Ishin",
     "data": 1
   },
   {
@@ -5400,6 +5440,10 @@
     "data": 1
   },
   {
+    "name": "Genesis 9: Melee",
+    "data": 1
+  },
+  {
     "name": "Intro/ Mobile Grab bag",
     "data": 1
   },
@@ -5448,6 +5492,14 @@
     "data": 1
   },
   {
+    "name": "LMBM: Smash Ultimate",
+    "data": 1
+  },
+  {
+    "name": "Stalcraft",
+    "data": 1
+  },
+  {
     "name": "Qatar's Water Park",
     "data": 1
   },
@@ -5489,6 +5541,10 @@
   },
   {
     "name": "Cygnus",
+    "data": 1
+  },
+  {
+    "name": "Synced",
     "data": 1
   },
   {
@@ -5540,7 +5596,19 @@
     "data": 1
   },
   {
+    "name": "Mainstage: Smash Ultimate",
+    "data": 1
+  },
+  {
+    "name": "Mainstage: Melee",
+    "data": 1
+  },
+  {
     "name": "Guilty Gear Strive",
+    "data": 1
+  },
+  {
+    "name": "Apex: Smash Ultimate",
     "data": 1
   },
   {
@@ -5636,6 +5704,10 @@
     "data": 1
   },
   {
+    "name": "Gotham Knights",
+    "data": 1
+  },
+  {
     "name": "Weird Sports",
     "data": 1
   },
@@ -5709,6 +5781,10 @@
   },
   {
     "name": "Why Do Games Shift In Tone?",
+    "data": 1
+  },
+  {
+    "name": "Jump King/Q&A",
     "data": 1
   },
   {
@@ -6229,10 +6305,6 @@
   },
   {
     "name": "Theme Park Crazy - Strange / Top 10 Worst Rides",
-    "data": 1
-  },
-  {
-    "name": "Sonic Frontiers",
     "data": 1
   },
   {
