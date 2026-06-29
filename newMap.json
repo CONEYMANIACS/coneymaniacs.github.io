@@ -64,6 +64,10 @@
     "data": 11
   },
   {
+    "name": "Fortnite",
+    "data": 11
+  },
+  {
     "name": "Fall Guys",
     "data": 11
   },
@@ -81,10 +85,6 @@
   },
   {
     "name": "Marvel Rivals",
-    "data": 10
-  },
-  {
-    "name": "Fortnite",
     "data": 10
   },
   {
@@ -1633,6 +1633,10 @@
   },
   {
     "name": "DK Bananza Review",
+    "data": 1
+  },
+  {
+    "name": "Terminull Brigade",
     "data": 1
   },
   {
