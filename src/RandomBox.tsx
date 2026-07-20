@@ -93,7 +93,7 @@ const randomColor = (): string => { return tailwindColors[Math.floor(Math.random
 
     const indices = new Set<number>();
 
-    while (indices.size < 5) {
+    while (indices.size < 6) {
     const randomIndex = Math.floor(Math.random() * chapterData.length);
     indices.add(randomIndex);
   }
