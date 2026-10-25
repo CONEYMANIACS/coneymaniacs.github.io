@@ -52,7 +52,9 @@ const randomColor = (): string => { return tailwindColors[Math.floor(Math.random
   <div className="px-2 py-1
                   md:px-6 md:py-3">
     <div className="font-bold text-sm 
-                    md:text-xl ">{video.vidTitle}</div>
+                    md:text-xl ">
+                      {video.vidTitle}
+    </div>
     {/* <p className="text-gray-700 text-base">
       {video.vidDescription}
     </p> */}
